@@ -1,0 +1,15 @@
+.characters {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    margin:auto;
+    background: #495ac8;
+    background: repeating-radial-gradient(circle farthest-corner at center center, #495ac8 0%, #2a438b 20%);
+    color:black;
+
+   
+    
+   
+}
+
