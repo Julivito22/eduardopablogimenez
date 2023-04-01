@@ -1,0 +1,44 @@
+.mainContainer{
+    border-radius: 10px;
+    border: 10px solid violet;
+    width: max-content;
+    height: max-content;
+    padding: 5em;
+    margin: auto;
+    margin-top: 10em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5em;
+    background-color:transparent;
+    color:azure;
+    text-shadow: 4px 4px 2px rgba(106,94,94,0.6);
+    font: size 1em;
+    font-family: Chalkduster;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+    text-size-adjust:inherit;
+    
+
+
+    
+}
+
+.entrar {
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Chalkduster;
+    border: 3px solid violet;
+    margin-top: 1em;
+}
+
+.entrar:hover{
+    cursor: default;
+}
+
+.cuadro{
+    background-color: transparent;
+    padding: 0.2em;
+    border: 3px solid violet ;
+}
